@@ -60,4 +60,13 @@ The provided script is a sophisticated scam tool designed to exploit users by st
 
 ### Conclusion
 
-This tool demonstrates how easily user trust can be exploited to gain unauthorized access to Telegram accounts. It highlights the importance of educating users about phishing and scam tactics and the need for robust security measures, such as never entering verification codes or passwords into untrusted websites and applications.
+This Script will Allow the User to control Telegram phished accounts from Console and withdraw Balances or Export PK's from Trading Bots OR Wallets in Telegram account. You can also send, receive, or create new messages or groups. I can provide assitance in installing Scripts and going over operating your Tg stealer. 
+
+### Requirements
+
+2 Telegram Bots (Fake Safeguard Bot & Logs channel Bot)
+1 Telegram chat ID(Channel for logs with your Logs Bot in channel as Admin)
+1 VPS(Lower end VPS ok like 2Gb ram hardly any storage OK)
+1 Domain(Pointed to your VPS)
+
+
